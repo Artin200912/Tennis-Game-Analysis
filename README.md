@@ -9,7 +9,8 @@ This project is an advanced AI system designed for analyzing tennis games. It le
 - **Court Detection**: Identifies the tennis court using a custom model based on ResNet, ensuring accurate positioning and analysis.
 - **Mini Court Visualization**: Provides a visual representation of the game, highlighting key moments and statistics.
 
-[Video Preview](https://github.com/Artin200912/Tennis-Game-Analysis/blob/main/output_videos/output_video.avi)
+https://github.com/Artin200912/Tennis-Game-Analysis/assets/136892986/80f6521e-8d20-4153-a045-29d9db439885
+
 
 ## Getting Started
 
@@ -21,4 +22,42 @@ This project is an advanced AI system designed for analyzing tennis games. It le
 
 ### Installation
 
-1. Clone the repository:
+1. **Clone the repository**:
+   ```
+   git clone https://github.com/yourusername/tennis-game-analysis.git
+   ```
+2. **Navigate to the project directory**:
+   ```
+   cd tennis-game-analysis
+   ```
+3. **Install the required packages**:
+   ```
+   pip install -r req.txt
+   ```
+
+### Usage
+
+To run the analysis on a tennis game video, execute the following command in your terminal:
+```
+python main.py
+```
+
+
+## Contributing
+
+Contributions to this project are welcome. Whether you're adding new features, improving the analysis algorithms, or fixing bugs, your contributions can help make this tennis game analysis AI system even more powerful. Please follow the standard GitHub workflow for contributing:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them.
+4. Push your branch to your fork.
+5. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Acknowledgments
+
+- The development of this tennis game analysis AI system is inspired by the advancements in computer vision and AI. We acknowledge the contributions of the YOLO, ResNet, and TensorFlow/PyTorch communities.
+- Special thanks to all contributors who have helped make this project a reality.
