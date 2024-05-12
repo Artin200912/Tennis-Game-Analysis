@@ -9,7 +9,7 @@ This project is an advanced AI system designed for analyzing tennis games. It le
 - **Court Detection**: Identifies the tennis court using a custom model based on ResNet, ensuring accurate positioning and analysis.
 - **Mini Court Visualization**: Provides a visual representation of the game, highlighting key moments and statistics.
 
-![Video Preview](https://github.com/Artin200912/Tennis-Game-Analysis/blob/main/output_videos/output_video.avi)
+[Video Preview](https://github.com/Artin200912/Tennis-Game-Analysis/blob/main/output_videos/output_video.avi)
 
 ## Getting Started
 
